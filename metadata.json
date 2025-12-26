@@ -1,5 +1,5 @@
 {
-  "name": "Social Media Posts - 社群美感貼文生成器",
+  "name": "social-media-posts",
   "description": "一站式 AI 社群圖文設計工具。支援多平台尺寸、多張連發、自定義風格與一鍵浮水印，讓您的社群經營更具質感。",
   "requestFramePermissions": [
     "camera"
